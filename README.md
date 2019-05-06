@@ -25,7 +25,7 @@ float aeff= 150.            effective area (cm2) for the chosen geometry
 
 ------------------------------
 
-mytgfdt_2_1B-comp.cpp
+mytgfdt_2_2-A.C
 
 Compiled version by MG, build using custom Makefile.txt
 
